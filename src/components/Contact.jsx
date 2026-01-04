@@ -95,7 +95,7 @@ const Contact = () => {
       icon: <MapPin size={24} />,
       title: 'Localização',
       value: 'Salvador/BA, Brasil',
-      link: '#'
+      link: 'https://maps.app.goo.gl/oMaihdmAjzY4yrLFA'
     }
   ];
 

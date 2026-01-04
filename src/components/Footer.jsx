@@ -19,21 +19,21 @@ const Footer = () => {
 
           <div className="flex gap-6">
             <a
-              href="#"
+              href="https://github.com/magroalbino"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="GitHub"
             >
               <Github size={24} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/yan-leite"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin size={24} />
             </a>
             <a
-              href="#"
+              href="mailto:yanrenat@gmail.com"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="Email"
             >

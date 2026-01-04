@@ -81,21 +81,21 @@ const Hero = () => {
           >
             <motion.a
               whileHover={{ scale: 1.2, rotate: 5 }}
-              href="#"
+              href="https://github.com/magroalbino"
               className="text-gray-400 hover:text-purple-400 transition-colors"
             >
               <Github size={28} />
             </motion.a>
             <motion.a
               whileHover={{ scale: 1.2, rotate: 5 }}
-              href="#"
+              href="https://www.linkedin.com/in/yan-leite"
               className="text-gray-400 hover:text-purple-400 transition-colors"
             >
               <Linkedin size={28} />
             </motion.a>
             <motion.a
               whileHover={{ scale: 1.2, rotate: 5 }}
-              href="#"
+              href="mailto:yanrenat@gmail.com"
               className="text-gray-400 hover:text-purple-400 transition-colors"
             >
               <Mail size={28} />
